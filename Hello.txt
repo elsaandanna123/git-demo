@@ -6,6 +6,7 @@ hello world hello man!2222woca
 =======
 hello world hello man!
 hello world hello man!2222 hot fix woca
->>>>>>> hot-fix
-hello world hello man!3333
-hello world hello man!hot-fix to inse:rt
+hello world hello man!hot-fix to inse:
+hello world hello man!hot-fix to insert
+are you ok?
+
